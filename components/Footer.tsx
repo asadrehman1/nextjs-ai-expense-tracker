@@ -98,7 +98,7 @@ const Footer = () => {
           <div className="flex items-center gap-4">
             <div className="inline-flex items-center gap-2 bg-emerald-50 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300 px-3 py-1 rounded-full text-xs font-medium">
               <span className="w-1.5 h-1.5 bg-emerald-500 dark:bg-emerald-400 rounded-full animate-pulse"></span>
-              Made by Sahand
+              Made by Asad
             </div>
           </div>
         </div>
